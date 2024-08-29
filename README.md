@@ -1,2 +1,3 @@
-# EECS-145
-Folder containing all the EECS 145 Data Management project assignments from the University of California, Irvine
+# EECS-101
+Folder containing all project assignments from the EECS 101: Computer Vision course at the University of California, Irvine.
+
